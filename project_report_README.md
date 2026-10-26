@@ -52,7 +52,25 @@ The objective of this project is to analyze e-commerce sales and customer data u
     *orders
     *order_items
 
+## Dashboard Design Based on the Uploaded PBIX
 
+    Page 1 — Sales Overview
+
+      KPI cards: Total Sales, Delivered Orders, Average Order Value, Total Quantity Sold.
+      Line chart: Total Sales by Calendar[Year Month]. Sort Year Month chronologically using a numeric YearMonth sort column.
+      Bar chart: Total Sales by product category.
+      Bar chart: Top products by Total Sales; use a Top N filter if needed.
+      Slicers: Calendar Year, customer city, and product category.
+
+Page 2 — Customer & Order Analysis
+        
+      KPI cards: Total Customers, Repeat Customers, Cancelled Orders, Cancellation Rate.
+      Donut chart: order count by order_status.
+      Bar chart: Total Sales by city.
+      Bar chart: product sales split by customer gender (or use a clustered chart with gender as legend).
+      Customer summary table: customer name, city, Total Sales, Delivered Orders.
+      Slicer: customer gender.
+ 
  ##Final Recommendations
  
     1. Increase revenue and average order value:

@@ -61,6 +61,8 @@ The objective of this project is to analyze e-commerce sales and customer data u
       Bar chart: Total Sales by product category.
       Bar chart: Top products by Total Sales; use a Top N filter if needed.
       Slicers: Calendar Year, customer city, and product category.
+https://github.com/sandhyasharma14/e-commerce-analysis-using-sql/blob/main/Screenshot%202026-09-26%20174942.png
+
 
 Page 2 — Customer & Order Analysis
         

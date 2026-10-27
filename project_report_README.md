@@ -52,7 +52,10 @@ The objective of this project is to analyze e-commerce sales and customer data u
     *orders
     *order_items
 
+    https://github.com/sandhyasharma14/e-commerce-analysis-using-sql/blob/main/ecommerce_dataset
+
 ## Dashboard Design Based on the Uploaded PBIX
+
 
     Page 1 — Sales Overview
 

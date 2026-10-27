@@ -64,6 +64,7 @@ The objective of this project is to analyze e-commerce sales and customer data u
 https://github.com/sandhyasharma14/e-commerce-analysis-using-sql/blob/main/Screenshot%202026-09-26%20174942.png
 
 
+
 Page 2 — Customer & Order Analysis
         
       KPI cards: Total Customers, Repeat Customers, Cancelled Orders, Cancellation Rate.
@@ -72,6 +73,8 @@ Page 2 — Customer & Order Analysis
       Bar chart: product sales split by customer gender (or use a clustered chart with gender as legend).
       Customer summary table: customer name, city, Total Sales, Delivered Orders.
       Slicer: customer gender.
+https://github.com/sandhyasharma14/e-commerce-analysis-using-sql/blob/main/Screenshot%20c%202026-09-26%20175258.png
+
  
  ##Final Recommendations
  
